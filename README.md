@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Angelo and I'm a College Student(Currently)</h2>
+<h2 align="left">👋Hi! My name is Dollr and I'm Currently A College Student👋</h2>
 
 ###
 
