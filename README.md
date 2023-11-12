@@ -1,4 +1,4 @@
-<h2 align="left">👋Hi! My name is Dollr and I'm Currently A College Student👋</h2>
+<h2 align="left">Hi 👋! My name is Angelo and I'm a College Student(Currently)</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fmnl14-1.fna.fbcdn.net/v/t1.6435-9/108488561_3348912381805906_2676051520008548767_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeHA08Q1___RqQi1g0RLJbAXo1LHAg7gw1ujUscCDuDDWzt4KhRqTsMCxPv88C3dyx2wFyMZ9vhRhJkplltom1Dx&_nc_ohc=vrAFWd9hvUUAX9Co0kL&_nc_ht=scontent.fmnl14-1.fna&oh=00_AfDxajU2Sm1u3gBW6ocKAgCaeBOCYXQVez61DLTTidt-nQ&oe=6576C112"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/AjCruzat89/AjCruzat89/main/2Mw9.gif"  />
 
 ###
 
